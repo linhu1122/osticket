@@ -37,7 +37,7 @@ define('ADMIN_EMAIL','demouser@opsgility.com');
 
 # Database Options
 # ---------------------------------------------------
-# Mysql Login info
+# Mysql Login info 
 define('DBTYPE','mysql');
 define('DBHOST','user07osticketsrv01.mysql.database.azure.com');
 define('DBNAME','osticket');
